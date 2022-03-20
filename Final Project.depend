@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1610556539 source:b:\term 3\programming 1\projects\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
+1611917012 source:b:\term 3\programming 1\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1614076467 source:b:\term 3\programming 1\final project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1614076467 source:b:\3\programming 1\final project\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
